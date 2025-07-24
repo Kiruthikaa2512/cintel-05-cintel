@@ -1,7 +1,8 @@
-shiny>=0.5.2
-shinywidgets>=0.3.0
-faicons>=0.1.0
-pandas>=2.0.0
-scipy>=1.10.0
-plotly>=5.15.0
-pyarrow>=14.0.0
+faicons
+pandas
+pyarrow
+plotly
+scipy
+shiny
+shinylive
+shinywidgets
